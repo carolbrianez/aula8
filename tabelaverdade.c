@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main() {
+int main(void) {
     int A, B;
 
     printf("Tabela Verdade\n");
