@@ -4,10 +4,9 @@ int main(void) {
     int num;
     int somanum = 0;
 
-    printf("Digite um número de 1 a 6 (valor do dado jogado):\n");
+    printf("Digite o número de 1 a 6 (valor do dado jogado):\n");
 
     while (1) {
-        printf("Digite um número: ");
         scanf("%d", &num);
         
         if (num < 1) {
