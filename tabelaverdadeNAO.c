@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 int main(void) {
- for (int a = 0; a < 2; a++) {
+ for (int A = 0; A < 2; A++) {
      
-        printf("A:%d !%d = %d\n", a, a, !a);
+        printf("A:%d !%d = %d\n", A, A, !A);
          
       }
       
